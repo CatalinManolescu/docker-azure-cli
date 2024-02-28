@@ -1,0 +1,4 @@
+.venv/**
+.env
+out/**
+!out/.gitkeep
